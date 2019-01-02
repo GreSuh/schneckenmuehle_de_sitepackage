@@ -1,0 +1,4 @@
+#
+# BACKENDLAYOUTS
+#
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:kinderdorf_schneckenmuehle/Configuration/TsConfig/Page/Mod/WebLayout/BackendLayouts" extensions="tsconfig">
