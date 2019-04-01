@@ -11,7 +11,7 @@ page.preloader.logo.file = EXT:kinderdorf_schneckenmuehle/Resources/Public/Icons
 ############
 page {
     logo {
-        file = EXT:kinderdorf_schneckenmuehle/Resources/Public/Images/logo.svg
+        #file = EXT:kinderdorf_schneckenmuehle/Resources/Public/Images/logo.svg
         fileInverted = EXT:kinderdorf_schneckenmuehle/Resources/Public/Images/logo-inverted.svg
         height = 52
         width = 192
