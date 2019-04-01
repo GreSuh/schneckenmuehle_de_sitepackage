@@ -3,6 +3,7 @@
 ######################
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:bootstrap_package/Configuration/TypoScript/constants.typoscript">
 
+page.includeCSS.schnecke = EXT:kinderdorf_schneckenmuehle/Resources/Public/Scss/schnecke.scss
 
 ############
 ### PAGE ###
