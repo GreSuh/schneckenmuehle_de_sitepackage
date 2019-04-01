@@ -1,0 +1,33 @@
+body {
+  background-image: url(../background/landschaft_vordergrund.png), url(../background/landschaft_hintergrund.png), url(../background/wolken.png), url(../background/verlauf_himmel.png);
+  background-position: 0% 100%, 0% 100%, 0% 0%, 0% 0%;
+  background-attachment: fixed, fixed;
+  background-origin: content-box, content-box;
+  background-repeat: no-repeat, no-repeat, repeat, repeat-x;
+  background-size: 100%, 100%, 100%, auto ;
+  padding-top: 56px;
+}
+
+
+@media (min-width: 992px)
+.navbar-mainnavigation .navbar-brand {
+    /* height: 130px; */
+}
+@media (min-width: 768px)
+.navbar-mainnavigation .navbar-brand {
+    /* height: 100px; */
+}
+@media (min-width: 576px)
+.navbar-mainnavigation .navbar-brand {
+    height: 70px;
+}
+.navbar-mainnavigation .navbar-brand {
+    margin-right: 40px;
+    height: 70px;
+}
+
+.navbar-mainnavigation .navbar-brand-image {
+    position: relative;
+    padding-top: 0; 
+    padding-bottom: 0;
+}
