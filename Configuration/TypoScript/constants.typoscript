@@ -60,7 +60,7 @@ plugin.bootstrap_package.settings.scss {
 
 
 
-page.includeCSS.schnecke = EXT:kinderdorf_schneckenmuehle/Resources/Public/Scss/Theme/schnecke.scss
+#page.includeCSS.schnecke = EXT:kinderdorf_schneckenmuehle/Resources/Public/Scss/Theme/schnecke.scss
 page.preloader.logo.file = EXT:kinderdorf_schneckenmuehle/Resources/Public/Icons/logo.png
 page.logo.file = EXT:kinderdorf_schneckenmuehle/Resources/Public/Icons/logo.png
 
